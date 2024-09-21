@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <ESP32Servo.h>
 
-const char *ssid = "YourWifiPassword";
+const char *ssid = "YourWifiName";
 const char *password = "s3krit";
 
 const int ledPin = 2;
